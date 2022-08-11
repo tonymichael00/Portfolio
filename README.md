@@ -1,6 +1,6 @@
 # My Portfolio
 
-Weather Search - Reactjs Project
+## H2 Weather Search - Reactjs Project
 
 Type your zipcode and see a color-coded 5 day calendar that shows the days that are closest to your preferred temperature.
 
@@ -9,7 +9,7 @@ Type your zipcode and see a color-coded 5 day calendar that shows the days that 
 - Custom Hooks
 - Responsive Design
 
-EtchASketch Coding Challenge - Vanilla Js
+## H2 EtchASketch Coding Challenge - Vanilla Js
 
 Rules:
 
